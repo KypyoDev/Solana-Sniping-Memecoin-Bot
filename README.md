@@ -24,7 +24,7 @@
 First step:
 1. Create a new Solana wallet
 2. Transfer some SOL to this new wallet
-3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration in .env file)
+3. Convert some SOL to USDC or WSOL (you need USDC or WSOL depending on the configuration in .json file)
 
 
 ## Dependencies 📃
